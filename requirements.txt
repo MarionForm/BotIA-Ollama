@@ -1,0 +1,5 @@
+pypdf
+python-docx
+requests
+beautifulsoup4
+duckduckgo-search
