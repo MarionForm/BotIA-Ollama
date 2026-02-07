@@ -15,8 +15,10 @@ Incluye lectura de archivos: TXT/LOG, PDF, DOCX.
 ```powershell
 ollama pull llama3.2
 ollama list
+
 2) Instalar dependencias Python
 py -m pip install -U -r requirements.txt
+
 3) Ejecutar
 OFFLINE
 py bot_offline.py
